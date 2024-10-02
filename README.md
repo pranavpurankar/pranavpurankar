@@ -16,6 +16,8 @@
 
 <h2 align="left">I code with</h2>
 
+[![An image of @pranavpurankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavpurankar)](https://holopin.io/@pranavpurankar)
+
 ###
 
 <div align="left">
