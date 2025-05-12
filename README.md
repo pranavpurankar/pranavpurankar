@@ -1,5 +1,6 @@
 <!-- Banner or profile header (optional) -->
-![banner]([https://your-custom-banner-url.com/banner.png](https://github.com/pranavpurankar/pranavpurankar/pull/1#issue-3057827264))
+![gitHub_pranavPurankar_bannerImage](https://github.com/user-attachments/assets/d1cdc96b-630f-468b-8dca-262737669bce)
+
 
 # Hi, I'm Pranav 👋
 
