@@ -16,7 +16,7 @@ My approach blends clean code practices, functional programming, and full-stack 
 
 - 🌍 Section Leader at Stanford’s [Code in Place](https://codeinplace.stanford.edu/)
 - 🛒 Building an e-commerce platform using [meduja.js](https://medusajs.com/)
-- 🖥️ HackOctober Fest 2024 [Holopin Badges](https://holopin.me/pranavpurankar)](https://holopin.io/@pranavpurankar)
+- 🖥️ HackOctober Fest 2024 [Holopin Badges](https://holopin.me/pranavpurankar)(https://holopin.io/@pranavpurankar)
 - 🔐 Focused on **security**, **SEO**, and **frontend architecture**
 - 🧪 Passionate about testing, performance, and clean, scalable code
 
