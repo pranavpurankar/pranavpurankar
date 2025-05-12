@@ -1,5 +1,5 @@
 <!-- Banner or profile header (optional) -->
-![banner](https://your-custom-banner-url.com/banner.png)
+![banner]([https://your-custom-banner-url.com/banner.png](https://github.com/pranavpurankar/pranavpurankar/pull/1#issue-3057827264))
 
 # Hi, I'm Pranav 👋
 
