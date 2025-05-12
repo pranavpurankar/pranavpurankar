@@ -20,6 +20,6 @@ My approach blends clean code practices, functional programming, and full-stack 
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavpurankar&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpurankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranavpurankar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpurankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
