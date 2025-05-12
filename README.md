@@ -4,18 +4,19 @@
 
 # Hi, I'm Pranav 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Website-pranav.dev-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/PranavPurankar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/pranavpurankar)
+<--! [![Website](https://img.shields.io/badge/Website-pranav.dev-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com) -->
 
 ## 💻 About Me
 
-I'm a self-taught software engineer who transitioned into tech in 2019. I love building production-grade web applications and open-source tools with **React**, **Node.js**, **Express**, and **PostgreSQL**.
+I'm a software engineer who transitioned into tech in 2019. I love building production-grade web applications and open-source tools with **React**, **Node.js**, **Express**, and **PostgreSQL**.
 
-My approach blends clean code practices, functional programming, and full-stack development. I’m currently contributing to [Lightdash](https://github.com/lightdash/lightdash) and applying for programs like **GSoC** and **Summer of Nix** to grow further as an open-source contributor.
+My approach blends clean code practices, functional programming, and full-stack development. I’m currently building UI for ecommerce app and applying for **Summer of Nix** to grow further as an open-source contributor.
 
-- 🌍 Teaching assistant at Stanford’s [Code in Place](https://codeinplace.stanford.edu/)
-- 🛒 Building an e-commerce platform for **Sharma Trader**
+- 🌍 Section Leader at Stanford’s [Code in Place](https://codeinplace.stanford.edu/)
+- 🛒 Building an e-commerce platform using [meduja.js](https://medusajs.com/)
+- 🖥️ HackOctober Fest 2024 [Holopin Badges](https://holopin.me/pranavpurankar)](https://holopin.io/@pranavpurankar)
 - 🔐 Focused on **security**, **SEO**, and **frontend architecture**
 - 🧪 Passionate about testing, performance, and clean, scalable code
 
@@ -25,10 +26,6 @@ My approach blends clean code practices, functional programming, and full-stack 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
 
 ---
-
-> *“I believe in solving real problems, contributing meaningfully, and always staying curious.”*
-
-
 
 ###
 
