@@ -23,3 +23,13 @@ My approach blends clean code practices, functional programming, and full-stack 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavpurankar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpurankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavpurankar&show_icons=true&theme=radical" alt="Pranav's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpurankar&layout=compact&theme=radical" alt="Top Langs" height="170" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranavpurankar&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpurankar" />
+</p>
