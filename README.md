@@ -4,10 +4,6 @@
 
 # Hi, I'm Pranav 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PranavPurankar?style=social)](https://twitter.com/PranavPurankar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/pranavpurankar)
-[//]: # [![Website](https://img.shields.io/badge/Website-pranav.dev-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-
 ## 💻 About Me
 
 I'm a software engineer who transitioned into tech in 2019. I love building production-grade web applications and open-source tools with **React**, **Node.js**, **Express**, and **PostgreSQL**.
@@ -23,5 +19,7 @@ My approach blends clean code practices, functional programming, and full-stack 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranavpurankar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpurankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavpurankar&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpurankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
