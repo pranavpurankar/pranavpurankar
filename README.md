@@ -4,9 +4,9 @@
 
 # Hi, I'm Pranav 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/PranavPurankar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PranavPurankar?style=social)](https://twitter.com/PranavPurankar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/pranavpurankar)
-<--! [![Website](https://img.shields.io/badge/Website-pranav.dev-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com) -->
+[//]: # [![Website](https://img.shields.io/badge/Website-pranav.dev-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 ## 💻 About Me
 
