@@ -8,7 +8,7 @@
 
 I'm a software engineer who transitioned into tech in 2019. I love building production-grade web applications and open-source tools with **React**, **Node.js**, **Express**, and **PostgreSQL**.
 
-My approach blends clean code practices, functional programming, and full-stack development. I’m currently building UI for ecommerce app and applying for **Summer of Nix** to grow further as an open-source contributor.
+My approach blends clean code practices, functional programming, and full-stack development. I’m currently building UI for ecommerce app and applying for **Major League Hacking** to grow further as an open-source contributor.
 
 - 🌍 Section Leader at Stanford’s [Code in Place](https://codeinplace.stanford.edu/)
 - 🛒 Building an e-commerce platform using [meduja.js](https://medusajs.com/)
