@@ -11,7 +11,7 @@ I'm a software engineer who transitioned into tech in 2019. I love building prod
 My approach blends clean code practices, functional programming, and full-stack development. I’m currently building UI for ecommerce app and applying for **Major League Hacking** to grow further as an open-source contributor.
 
 - 🌍 Section Leader at Stanford’s [Code in Place](https://codeinplace.stanford.edu/)
-- 🛒 Building an e-commerce platform using [meduja.js](https://medusajs.com/)
+- 
 - 🖥️ HackOctober Fest 2024 [Holopin Badges](https://holopin.me/pranavpurankar)(https://holopin.io/@pranavpurankar)
 - 🔐 Focused on **security**, **SEO**, and **frontend architecture**
 - 🧪 Passionate about testing, performance, and clean, scalable code
