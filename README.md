@@ -10,11 +10,13 @@ I'm a software engineer who transitioned into tech in 2019. I love building prod
 
 My approach blends clean code practices, functional programming, and full-stack development. I’m currently building UI for ecommerce app and applying for **Major League Hacking** to grow further as an open-source contributor.
 
-- 🌍 Section Leader at Stanford’s [Code in Place](https://codeinplace.stanford.edu/)
-- 
-- 🖥️ HackOctober Fest 2024 [Holopin Badges](https://holopin.me/pranavpurankar)(https://holopin.io/@pranavpurankar)
-- 🔐 Focused on **security**, **SEO**, and **frontend architecture**
-- 🧪 Passionate about testing, performance, and clean, scalable code
+- 🛒 Built a production-grade e-commerce store with Sanity Content Operating System.
+- 🌍 Section Leader at Stanford’s [Code in Place](https://codeinplace.stanford.edu/).
+- 🖥️ HackOctober Fest 2024 [Holopin Badges](https://holopin.me/pranavpurankar)(https://holopin.io/@pranavpurankar).
+- 🔐 Focused on full-stack development, headless CMS, system design, and capital markets.
+- 🧪 Passionate about testing, performance, and clean, scalable code.
+- 🌱 Half of my life dedicated to open source got little in return because few organizations need ICs.
+- 🚫 I never want to be a manager; it’s just that if no one else can do it better, I have to step in.
 
 ---
 
