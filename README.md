@@ -3,7 +3,7 @@
 
 # Hi, I'm Pranav 👋
 
-### **Systems Programmer | Fullstack Architect | IC at Heart**
+### **Systems Engineer | Low-Latency Rust & Solana | Libc Modernization 1.0 | Rattler (Conda-Rust) Contributor | Section Leader @ Stanford Code in Place | Ex-Founder Loomport | IC at Heart**
 
 I build software from the metal to the protocol. My work ranges from ABI modernization in libc to architecting high-throughput Solana ingestion engines. I specialize in low-level Rust, zero-copy memory patterns, and binary security.
 
