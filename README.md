@@ -1,11 +1,11 @@
-<!-- Banner or profile header (optional) -->
+<!-- Banner or profile header -->
 ![gitHub_pranavPurankar_bannerImage](https://github.com/user-attachments/assets/d1cdc96b-630f-468b-8dca-262737669bce)
 
 # Hi, I'm Pranav 👋
 
 ### **Systems Programmer | Fullstack Architect | IC at Heart**
 
-I build software from the **metal to the market**. My work ranges from auditing binary layouts in the **Linux kernel** to architecting high-performance **fullstack engines** that drive real-world ROI for non-tech businesses.
+I build software from the metal to the protocol. My work ranges from ABI modernization in libc to architecting high-throughput Solana ingestion engines. I specialize in low-level Rust, zero-copy memory patterns, and binary security.
 
 ---
 
@@ -17,10 +17,12 @@ I build software from the **metal to the market**. My work ranges from auditing 
 ---
 
 ## 🏗️ The Startup Journey (Fullstack & Impact)
+*Past Work: Transitioning from high-impact product delivery to systems-level engineering.*
+
 I don’t just write code; I build digital footprints.
-* **Grassroots E-Commerce:** Designed and deployed a custom e-commerce and few end-to-end web application for non-tech local businesses. 
+* **Grassroots E-Commerce:** Designed and deployed custom e-commerce and end-to-end web applications for non-tech local businesses. 
 * **Impact:** Translated complex tech into **measurable ROI**, helping traditional businesses establish their first digital presence.
-* **Tech Stack:** Nextjs 15/16+, React 18/19, Node.js, PostgreSQL, Google Cloud Platform, and PayloadCMS.
+* **Tech Stack:** Next.js 15/16+, React 18/19, Node.js, PostgreSQL, Google Cloud Platform, and PayloadCMS.
 
 ---
 
@@ -41,12 +43,12 @@ My approach to code is defined by three pillars:
 
 ## 📊 Tech Snapshot
 * **Systems:** Rust (Safe & Unsafe, FFI), C, Linux Kernel Headers, Docker, Binary Relocation.
-* **Web:** Nextjs 15/16+, React 18/19, Node.js, PostgreSQL, Google Cloud Platform, and PayloadCMS.
+* **Web:** Next.js 15/16+, React 18/19, Node.js, PostgreSQL, Google Cloud Platform, and PayloadCMS.
 * **Interests:** Solana/DeFi, Algorithmic Trading, Open Source Sustainability.
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavpurankar&show_icons=true&theme=radical" alt="Pranav's GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpurankar&layout=compact&theme=radical&hide=css,html" alt="Top Langs" height="170" />
