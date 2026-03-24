@@ -5,7 +5,7 @@
 
 ### **Software Developer | Rust & Open Source Contributor | Exploring Systems & Security | Section Leader @ Stanford Code in Place**
 
-I am a self-taught developer transitioning from full-stack web development to low-level systems programming. I enjoy building a "bottom-up" mental model of how computers work—from logic gates to the OS kernel. Currently, I'm diving deep into Rust, C, and open-source infrastructure.
+I am a self-taught developer transitioning from full-stack web development to low-level systems programming. I enjoy building a "bottom-up" mental model of how computers work from logic gates to the OS kernel. Currently, I'm diving deep into Rust, C, and open-source infrastructure.
 
 ---
 
@@ -36,6 +36,6 @@ Before moving to systems programming, I worked as a freelance developer helping 
 ## 🛠️ Tech Snapshot
 * **Systems:** Rust (Ownership, FFI basics), C, Linux Internals, Bash.
 * **Web:** TypeScript, React, Node.js, PostgreSQL, GCP.
-* **Currently Reading:** *Computer Systems: A Programmer's Perspective (CS:APP)*, *TLPI* & *Rust Atomics and Locks*.
+* **Currently Reading:** *Computer Systems: A Programmer's Perspective (CS:APP)*, *TAPL*, *TLPI* & *Rust Atomics and Locks*.
 
 ---
