@@ -11,7 +11,7 @@ I am a self-taught developer transitioning from full-stack web development to lo
 
 ## 🚀 Current Focus
 * 🦀 **System Abstractions:** Exploring the `libc` crate to understand Rust-to-C FFI, Linux kernel headers, and how C-style structs are represented in Rust safely.
-* 📦 **Rust Tooling:** Contributing to the `rattler` ecosystem (Prefix.dev) to learn about cross-platform shell logic, environment resolution, and package management.
+
 * 🔍 **Edge-Case Discovery:** Developing a mindset for finding where software logic fails. I have a growing interest in automated testing, fuzzing, and understanding the "why" behind compiler type systems.
 
 ---
